@@ -14,11 +14,11 @@
     each second may be your last.
   </p>
   <p align="left">
-      Implementations:
+    Implementations:
 
-      Implementations needed:
+    Implementations needed:
 
-      Already implemented:
+    Already implemented:
   </p>
 
   ---
