@@ -13,6 +13,11 @@
     A survival tower defense game where the shadows are your biggest enemy,<br />
     each second may be your last.
   </p>
+  <p align="left">
+      Implementations needed:
+
+      Already implemented:
+  </p>
 
   ---
 
